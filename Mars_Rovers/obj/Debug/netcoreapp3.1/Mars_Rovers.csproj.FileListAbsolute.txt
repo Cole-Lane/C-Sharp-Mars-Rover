@@ -1,0 +1,13 @@
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/bin/Debug/netcoreapp3.1/Mars_Rovers.deps.json
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/bin/Debug/netcoreapp3.1/Mars_Rovers.runtimeconfig.json
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/bin/Debug/netcoreapp3.1/Mars_Rovers.runtimeconfig.dev.json
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/bin/Debug/netcoreapp3.1/Mars_Rovers.dll
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/bin/Debug/netcoreapp3.1/Mars_Rovers.pdb
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/obj/Debug/netcoreapp3.1/Mars_Rovers.csproj.AssemblyReference.cache
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/obj/Debug/netcoreapp3.1/Mars_Rovers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/obj/Debug/netcoreapp3.1/Mars_Rovers.AssemblyInfoInputs.cache
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/obj/Debug/netcoreapp3.1/Mars_Rovers.AssemblyInfo.cs
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/obj/Debug/netcoreapp3.1/Mars_Rovers.csproj.CoreCompileInputs.cache
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/obj/Debug/netcoreapp3.1/Mars_Rovers.dll
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/obj/Debug/netcoreapp3.1/Mars_Rovers.pdb
+/Users/colelane/Projects/Mars_Rovers/Mars_Rovers/obj/Debug/netcoreapp3.1/Mars_Rovers.genruntimeconfig.cache
